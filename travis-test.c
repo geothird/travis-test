@@ -6,7 +6,7 @@ int main(int argc, char **argv)
   if (argc != 5)
   {
     printf("\n\n---Test Travis: -----------------------\n");
-    broke the build;
+    printf("---Fixed Travis: -----------------------\n");
   }
   printf("\n\n---End  Travis: -----------------------\n"); 
 }
